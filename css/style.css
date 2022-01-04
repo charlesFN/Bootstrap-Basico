@@ -1,0 +1,52 @@
+body {
+    background-color: #fdfefe;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    margin-bottom: 15px;
+}
+
+hr {
+    width: 90%;
+    margin-left: 5%;
+}
+
+footer {
+    background-color: #f8f9f9;
+    text-align: center;
+    padding: 25px;
+}
+
+#menu {
+    margin-left: 3%;
+}
+
+#quemsomos {
+    background-image: url("team.jpg");
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#parceiros {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#servicos {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #f8f9f9;
+    margin-bottom: 16px;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 15px;
+}
